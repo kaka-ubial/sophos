@@ -8,7 +8,7 @@ The project combines **educational content** - curated from public APIs - with *
 
 ## 🚀 General
 
-The goal is to transform learning into an immersive experienceÇ
+The goal is to transform learning into an immersive experience
 
 1. The user chooses a theme (example: Geography 🌍 or Art 🎨)
 2. Explores short educational content
